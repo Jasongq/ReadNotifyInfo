@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">监听</string>
+    <string name="app_monitoring_system_notification">开启插件</string>
+</resources>
